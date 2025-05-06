@@ -1,0 +1,73 @@
+body
+{
+    background-color: #3498db;
+}
+
+.login{
+    display: inline-block;
+    position: relative;
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    font-size: 18px; 
+    margin-left: 610px;   
+
+}
+
+.error {
+    color: white;
+}
+
+#header
+{
+    text-align: center;
+}
+
+#logo
+{
+    position: relative;
+    height: 70px;
+    width: 70px;
+}
+
+#reset
+{
+    color: white;
+    margin-left: 10px;
+}
+
+#signup
+{
+    color: white;
+    margin-left: 20px;
+}
+#submit
+{
+    margin-left: 50px;
+}
+
+#title
+{
+    color: yellow;
+    top: 1%;
+}
+
+#name
+{
+    margin-left: 30px;
+}
+
+#email
+{
+    margin-left: 30px;
+}
+
+#mobile
+{
+    margin-left: 20px;
+}
+
+#gender
+{
+    margin-left: 40px;
+}
